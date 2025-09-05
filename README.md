@@ -8,4 +8,4 @@
 
 --- 
 ### 📊 GitHub Stats
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=gkrockz&theme=nord&show_icons=true&hide=issues&rank_icon=github&border_color=3B4252&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=kishorein&theme=nord&show_icons=true&hide=issues&rank_icon=github&border_color=3B4252&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
