@@ -2,9 +2,27 @@
 
 ### 🧑‍💻 Tech I Work With 
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,python,java,github,git,postman,vscode,sublime,replit,azure,windows,linux" height="30" /> 
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/kishorein/kishorein/assets/powerbi-alt.svg" height="30" />
+<img src="https://cdn.jsdelivr.net/gh/kishorein/kishorein/assets/tableau.svg" height="30" />
+<img src="https://cdn.jsdelivr.net/gh/kishorein/kishorein/assets/powerapp.svg" height="30" />
+<img src="https://cdn.jsdelivr.net/gh/kishorein/kishorein/assets/powerautomate.svg" height="30" />
+<img src="https://cdn.jsdelivr.net/gh/kishorein/kishorein/assets/node.svg" height="30" />
+<img src="https://cdn.jsdelivr.net/gh/kishorein/kishorein/assets/git.svg" height="30" />
+<img src="https://cdn.jsdelivr.net/gh/kishorein/kishorein/assets/vscode.svg" height="30" />
+<img src="https://cdn.jsdelivr.net/gh/kishorein/kishorein/assets/sql.svg" height="28" />
+<img src="https://cdn.jsdelivr.net/gh/kishorein/kishorein/assets/figma.svg" height="30" />
+<img src="https://cdn.jsdelivr.net/gh/kishorein/kishorein/assets/looker.svg" height="30" />
+<img src="https://cdn.jsdelivr.net/gh/kishorein/kishorein/assets/azure.svg" height="30" />
+<img src="https://cdn.jsdelivr.net/gh/kishorein/kishorein/assets/terminal.svg" height="30" />
+<img src="https://cdn.jsdelivr.net/gh/kishorein/kishorein/assets/windows.svg" height="30" />
+<img src="https://cdn.jsdelivr.net/gh/kishorein/kishorein/assets/python.svg" height="30" />
+<img src="https://cdn.jsdelivr.net/gh/kishorein/kishorein/assets/javascript.svg" height="30" />
+<img src="https://cdn.jsdelivr.net/gh/kishorein/kishorein/assets/react.svg" height="30" />
+<img src="https://cdn.jsdelivr.net/gh/kishorein/kishorein/assets/postman.svg" height="30" />
+</p>
 
-> I work across full stack development and data analytics - blending code with insights to drive impact in the tech space.
+> I work across data analytics and full stack development - transforming data into decisions & code into experiences
 
 --- 
 ### 📊 GitHub Stats
