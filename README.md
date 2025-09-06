@@ -3,23 +3,23 @@
 ### 🧑‍💻 Tech I Work With 
 
 <p align="left">
-<img src="https://cdn.jsdelivr.net/gh/kishorein/kishorein/assets/powerbi-alt.svg" height="30" />
-<img src="https://cdn.jsdelivr.net/gh/kishorein/kishorein/assets/tableau.svg" height="30" />
-<img src="https://cdn.jsdelivr.net/gh/kishorein/kishorein/assets/powerapp.svg" height="30" />
-<img src="https://cdn.jsdelivr.net/gh/kishorein/kishorein/assets/powerautomate.svg" height="30" />
-<img src="https://cdn.jsdelivr.net/gh/kishorein/kishorein/assets/node.svg" height="30" />
-<img src="https://cdn.jsdelivr.net/gh/kishorein/kishorein/assets/git.svg" height="30" />
-<img src="https://cdn.jsdelivr.net/gh/kishorein/kishorein/assets/vscode.svg" height="30" />
-<img src="https://cdn.jsdelivr.net/gh/kishorein/kishorein/assets/sql.svg" height="28" />
-<img src="https://cdn.jsdelivr.net/gh/kishorein/kishorein/assets/figma.svg" height="30" />
-<img src="https://cdn.jsdelivr.net/gh/kishorein/kishorein/assets/looker.svg" height="30" />
-<img src="https://cdn.jsdelivr.net/gh/kishorein/kishorein/assets/azure.svg" height="30" />
-<img src="https://cdn.jsdelivr.net/gh/kishorein/kishorein/assets/terminal.svg" height="30" />
-<img src="https://cdn.jsdelivr.net/gh/kishorein/kishorein/assets/windows.svg" height="30" />
-<img src="https://cdn.jsdelivr.net/gh/kishorein/kishorein/assets/python.svg" height="30" />
-<img src="https://cdn.jsdelivr.net/gh/kishorein/kishorein/assets/javascript.svg" height="30" />
-<img src="https://cdn.jsdelivr.net/gh/kishorein/kishorein/assets/react.svg" height="30" />
-<img src="https://cdn.jsdelivr.net/gh/kishorein/kishorein/assets/postman.svg" height="30" />
+<img src="https://cdn.jsdelivr.net/gh/kishorein/kishorein/assets/powerbi-alt.svg" height="25" />
+<img src="https://cdn.jsdelivr.net/gh/kishorein/kishorein/assets/tableau.svg" height="25" />
+<img src="https://cdn.jsdelivr.net/gh/kishorein/kishorein/assets/powerapp.svg" height="25" />
+<img src="https://cdn.jsdelivr.net/gh/kishorein/kishorein/assets/powerautomate.svg" height="25" />
+<img src="https://cdn.jsdelivr.net/gh/kishorein/kishorein/assets/node.svg" height="25" />
+<img src="https://cdn.jsdelivr.net/gh/kishorein/kishorein/assets/git.svg" height="25" />
+<img src="https://cdn.jsdelivr.net/gh/kishorein/kishorein/assets/vscode.svg" height="25" />
+<img src="https://cdn.jsdelivr.net/gh/kishorein/kishorein/assets/sql.svg" height="25" />
+<img src="https://cdn.jsdelivr.net/gh/kishorein/kishorein/assets/figma.svg" height="25" />
+<img src="https://cdn.jsdelivr.net/gh/kishorein/kishorein/assets/looker.svg" height="25" />
+<img src="https://cdn.jsdelivr.net/gh/kishorein/kishorein/assets/azure.svg" height="25" />
+<img src="https://cdn.jsdelivr.net/gh/kishorein/kishorein/assets/terminal.svg" height="25" />
+<img src="https://cdn.jsdelivr.net/gh/kishorein/kishorein/assets/windows.svg" height="25" />
+<img src="https://cdn.jsdelivr.net/gh/kishorein/kishorein/assets/python.svg" height="25" />
+<img src="https://cdn.jsdelivr.net/gh/kishorein/kishorein/assets/javascript.svg" height="25" />
+<img src="https://cdn.jsdelivr.net/gh/kishorein/kishorein/assets/react.svg" height="25" />
+<img src="https://cdn.jsdelivr.net/gh/kishorein/kishorein/assets/postman.svg" height="25" />
 </p>
 
 > I work across data analytics and full stack development - transforming data into decisions & code into experiences
