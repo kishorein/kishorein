@@ -18,6 +18,7 @@
 <img src="https://cdn.jsdelivr.net/gh/kish-gk/kish-gk/assets/python.svg" height="25" />
 <img src="https://cdn.jsdelivr.net/gh/kish-gk/kish-gk/assets/javascript.svg" height="25" />
 <img src="https://cdn.jsdelivr.net/gh/kish-gk/kish-gk/assets/react.svg" height="25" />
+<img src="https://cdn.jsdelivr.net/gh/kish-gk/kish-gk/assets/node.svg" height="25" />
 <img src="https://cdn.jsdelivr.net/gh/kish-gk/kish-gk/assets/postman.svg" height="25" />
 </p>
 
